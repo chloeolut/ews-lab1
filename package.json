@@ -1,0 +1,22 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node myserver.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chloeolut/ews-lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chloeolut/ews-lab1/issues"
+  },
+  "homepage": "https://github.com/chloeolut/ews-lab1#readme"
+}
